@@ -6,3 +6,4 @@ function Title() {
 }
 
 export default Title;
+// possibly can move into another component
